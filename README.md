@@ -10,5 +10,13 @@
 
 skiprows - I used skiprows when reading the datasets in to skip over the title so the dataframe will start at the column headings. 
 
-## Analyze Your Data
+## 3. Analyze Your Data
 `Use at least 5 different built-in Python functions to find out something about your data.`
+
+`Do 5 basic calculations with Pandas`
+
+## 4. Visualize Your Data
+`Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.`
+
+
+
