@@ -6,6 +6,8 @@
 
 ## 2. Manipulate and Clean Your Data
 `Use built-in pandas or numpy functions to do things like remove 0’s and null values where they don’t belong in your dataset.`
+
+
 skiprows - I used skiprows when reading the datasets in to skip over the title so the dataframe will start at the column headings. 
 
 ## Analyze Your Data
