@@ -20,5 +20,8 @@ skiprows - I used skiprows when reading the datasets in to skip over the title s
 ## 4. Visualize Your Data
 `Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.`
 
+## 5. Interpret Your Data and Graphical Output
+`Write markdown cells in Jupyter explaining your thought process and code.`
+
 
 
