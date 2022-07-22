@@ -1,5 +1,16 @@
 # Buddy Bass Tournament 2016-2020
 
+## How to Run this Project
+Please make sure that you have Python installed locally before proceeding. 
+
+Clone or download this repository 
+https://github.com/istarlet/buddy_bass_tournament
+
+From the terminal 
+
+- `jupyter notebook` 
+
+
 ## 1. Read Data In
 `Read in data from a local csv, excel file, json, or any other file type.`
 
