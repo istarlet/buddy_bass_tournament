@@ -1,4 +1,7 @@
-# Buddy Bass Tournament 2016-2020
+# Buddy Bass Tournament 2020
+
+## Introduction
+
 
 ## How to Run this Project
 Please make sure that you have Python installed locally before proceeding. 
