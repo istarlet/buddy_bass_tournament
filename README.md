@@ -23,12 +23,9 @@ I read in an excel file with data from my dad's "Buddy Bass Tournament".
 ## 2. Manipulate and Clean Your Data
 `Use built-in pandas or numpy functions to do things like remove 0’s and null values where they don’t belong in your dataset.`
 
-
-skiprows - I used skiprows when reading the datasets in to skip over the title so the dataframe will start at the column headings. 
-
-pd.Series(pd.date_range()) - I created a series from date_range that starts on 06/10/2022 and then every Wednesday for the next 15 periods.
-
-.drop() - I used drop to remove the "Big Fish/YEar (LBS)" column from the dataframe.
+1. **skiprows** - I used skiprows when reading the datasets in to skip over the title so the dataframe will start at the column headings. 
+2. **pd.Series(pd.date_range())** - I created a series from date_range that starts on 06/10/2022 and then every Wednesday for the next 15 periods.
+3. **.drop()** - I used drop to remove the "Big Fish/YEar (LBS)" column from the dataframe.
 
 ## 3. Analyze Your Data
 `Use at least 5 different built-in Python functions to find out something about your data.`
