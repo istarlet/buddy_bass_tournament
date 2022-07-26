@@ -36,6 +36,9 @@ I read in an excel file with data from my dad's "Buddy Bass Tournament".
 `Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.`
 
 ![Scatter Plot](https://user-images.githubusercontent.com/14065849/181111369-90e8fd15-009b-41c0-bee7-a6abfebb61bc.png)
+<p align = "center">
+Fig.1 - Scatter Plot
+</p>
 
 ## 5. Interpret Your Data and Graphical Output
 `Write markdown cells in Jupyter explaining your thought process and code.`
