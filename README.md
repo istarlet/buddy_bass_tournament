@@ -37,6 +37,8 @@ I read in an excel file with data from my dad's "Buddy Bass Tournament".
 
 ![Scatter Plot](https://user-images.githubusercontent.com/14065849/181111369-90e8fd15-009b-41c0-bee7-a6abfebb61bc.png)
 
+![alt text][image][image]: https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80
+
 
 ## 5. Interpret Your Data and Graphical Output
 `Write markdown cells in Jupyter explaining your thought process and code.`
