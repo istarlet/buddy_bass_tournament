@@ -18,7 +18,7 @@ From the terminal
 `Read in data from a local csv, excel file, json, or any other file type.`
 
 
-Read in five excel files with data from my dad's "Buddy Bass Tournament". 
+I read in an excel file with data from my dad's "Buddy Bass Tournament". 
 
 ## 2. Manipulate and Clean Your Data
 `Use built-in pandas or numpy functions to do things like remove 0’s and null values where they don’t belong in your dataset.`
