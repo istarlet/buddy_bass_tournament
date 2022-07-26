@@ -35,6 +35,9 @@ I read in an excel file with data from my dad's "Buddy Bass Tournament".
 ## 4. Visualize Your Data
 `Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.`
 
+![image](https://user-images.githubusercontent.com/14065849/181111369-90e8fd15-009b-41c0-bee7-a6abfebb61bc.png)
+
+
 ## 5. Interpret Your Data and Graphical Output
 `Write markdown cells in Jupyter explaining your thought process and code.`
 
