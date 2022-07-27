@@ -1,7 +1,9 @@
 # Buddy Bass Tournament 2020
 
 ## Introduction
+The Buddy Bass Tournament on Williamstown Lake was started in 1985 by twin brothers: Bob and Sam Perry. They held their final tournament season in 2020.  
 
+In this notebook, I'll take a look at the dataset from the Buddy Bass Tournament 2020 Season to try to *insert what I'm going to do here*. I will use the following dataset: dataset/Buddy_Bass_Tournament_2020.xlsx, that I received from my dad, Sam Perry.
 
 ## How to Run this Project
 Please make sure that you have Python installed locally before proceeding. 
@@ -13,7 +15,7 @@ From the terminal
 
 - `jupyter notebook` 
 
-
+# Project Requirements
 ## 1. Read Data In
 `Read in data from a local csv, excel file, json, or any other file type.`
 
@@ -31,6 +33,13 @@ I read in an excel file with data from my dad's "Buddy Bass Tournament".
 `Use at least 5 different built-in Python functions to find out something about your data.`
 
 `Do 5 basic calculations with Pandas`
+
+1. **.info()** - I used .info() to display information about the columns including data type and number of missing values, if any
+2. **shape** - I used .shape to return the number of rows and columns in the data
+3. **.describe()** - I used .describe to display a summary of statistics calculated for each column
+4. **.groupby + .sum()** - I used .groupby to group the data by "Month" and calculate the sum for "Number of Boats", "Total No of Fish Caught", and "Total Weight in Pounds" by month
+5. **Find tournament dates where number of boats was less than 30** - buddy_bass_2020[buddy_bass_2020["Number of Boats"] < 30]
+6. **.median()** - I used .median to find the median number of fish caught 
 
 ## 4. Visualize Your Data
 `Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.`
