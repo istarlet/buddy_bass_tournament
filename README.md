@@ -32,7 +32,7 @@ I read in an excel file with data from my dad's "Buddy Bass Tournament".
 
 `Do 5 basic calculations with Pandas`
 
-1. **.info()** - I used .info() to display information about the columns including data type and number of any missing values
+1. **.info()** - I used .info() to display information about the columns including data type and number of missing values, if any
 2. **shape** - I used .shape to return the number of rows and columns in the data
 3. **.describe()** - I used .describe to display a summary of statistics calculated for each column
 4. **.groupby + .sum()** - I used .groupby to group the data by "Month" and calculate the sum for "Number of Boats", "Total No of Fish Caught", and "Total Weight in Pounds" by month
