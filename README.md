@@ -15,7 +15,7 @@ From the terminal
 
 - `jupyter notebook` 
 
-
+# Project Requirements
 ## 1. Read Data In
 `Read in data from a local csv, excel file, json, or any other file type.`
 
