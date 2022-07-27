@@ -38,7 +38,8 @@ I read in an excel file with data from my dad's "Buddy Bass Tournament".
 2. **shape** - I used .shape to return the number of rows and columns in the data
 3. **.describe()** - I used .describe to display a summary of statistics calculated for each column
 4. **.groupby + .sum()** - I used .groupby to group the data by "Month" and calculate the sum for "Number of Boats", "Total No of Fish Caught", and "Total Weight in Pounds" by month
-5. **. 
+5. **Find tournament dates where number of boats was less than 30** - buddy_bass_2020[buddy_bass_2020["Number of Boats"] < 30]
+6. 
 
 ## 4. Visualize Your Data
 `Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.`
