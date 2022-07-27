@@ -1,7 +1,9 @@
 # Buddy Bass Tournament 2020
 
 ## Introduction
+The Buddy Bass Tournament on Williamstown Lake was started in 1985 by twin brothers: Bob and Sam Perry. They held their final tournament season in 2020.  
 
+In this notebook, I'll take a look at the dataset from the Buddy Bass Tournament 2020 Season to try to *insert what I'm going to do here*. I will use the following dataset: dataset/Buddy_Bass_Tournament_2020.xlsx, that I received from my dad, Sam Perry.
 
 ## How to Run this Project
 Please make sure that you have Python installed locally before proceeding. 
