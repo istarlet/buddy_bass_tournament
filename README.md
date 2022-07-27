@@ -40,6 +40,12 @@ I read in an excel file with data from my dad's "Buddy Bass Tournament".
 Fig.1 - Scatter Plot
 </p>
 
+<p align = "center"><img src = "https://user-images.githubusercontent.com/14065849/181373938-1a81a443-0ffe-43c4-841b-cdf99bfa6d4f.png"></p>
+<p align = "center">
+Fig.2 - Bar Plot
+</p>
+
+
 ## 5. Interpret Your Data and Graphical Output
 `Write markdown cells in Jupyter explaining your thought process and code.`
 
