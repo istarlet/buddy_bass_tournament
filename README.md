@@ -37,8 +37,14 @@ I read in an excel file with data from my dad's "Buddy Bass Tournament".
 
 <p align = "center"><img src = "https://user-images.githubusercontent.com/14065849/181111369-90e8fd15-009b-41c0-bee7-a6abfebb61bc.png"></p>
 <p align = "center">
-Fig.1 - Scatter Plot
+  <strong>Fig.1 - Scatter Plot</strong>
 </p>
+
+<p align = "center"><img src = "https://user-images.githubusercontent.com/14065849/181373938-1a81a443-0ffe-43c4-841b-cdf99bfa6d4f.png"></p>
+<p align = "center">
+  <strong>Fig. 2 - Bar Plot</strong>
+</p>
+
 
 ## 5. Interpret Your Data and Graphical Output
 `Write markdown cells in Jupyter explaining your thought process and code.`
