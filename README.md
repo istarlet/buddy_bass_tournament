@@ -13,7 +13,7 @@ In this notebook, I'll take a look at the dataset from the Buddy Bass Tournament
 <li>Open cloned repo and run 'buddy_bass_.ipynb'</li>
 </ol>
 
-`### Python packages used in this project:`
+### Python packages used in this project:
 <ul>
     <li>matplotlib</li>
     <li>pandas</li>
