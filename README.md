@@ -6,6 +6,19 @@ The Buddy Bass Tournament on Williamstown Lake was started in 1985 by twin broth
 In this notebook, I'll take a look at the dataset from the Buddy Bass Tournament 2020 Season to try to *insert what I'm going to do here*. I will use the following dataset: dataset/Buddy_Bass_Tournament_2020.xlsx, that I received from my dad, Sam Perry.
 
 ## How to Run this Project
+<ol>
+<li>Install Anaconda if you don't have it installed (https://docs.anaconda.com/anaconda/install/index.html)</li>
+<li>Clone this repository from Github https://github.com/istarlet/buddy_bass_tournament/</li>
+<li>Open Jupyter Notebook in Anaconda</li>
+<li>Open cloned repo and run 'buddy_bass_.ipynb'</li>
+</ol>
+
+Python packages used in project:
+<ul>
+    <li>matplotlib</li>
+    <li>pandas</li>
+</ul>
+    
 Please make sure that you have Python installed locally before proceeding. 
 
 Clone or download this repository 
