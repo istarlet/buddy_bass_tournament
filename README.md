@@ -57,5 +57,6 @@ I read in an excel file with data from my dad's "Buddy Bass Tournament".
 
 ## 5. Interpret Your Data and Graphical Output
 `Write markdown cells in Jupyter explaining your thought process and code.`
+
 Throughout my Jupyter Notebook you will find comments and markdown cells where I explain my thought process and code.
 
