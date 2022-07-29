@@ -1,4 +1,5 @@
 # Buddy Bass Tournament 2020
+<p align="center"><img src="https://github.com/istarlet/buddy_bass_tournament/blob/main/images/PB040066.JPG" /></p>
 
 ## Introduction
 The Buddy Bass Tournament on Williamstown Lake was started in 1985 by twin brothers: Bob and Sam Perry. They held their final tournament season in 2020.  
