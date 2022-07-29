@@ -24,7 +24,6 @@ In this notebook, I'll take a look at the dataset from the Buddy Bass Tournament
 ## 1. Read Data In
 `Read in data from a local csv, excel file, json, or any other file type.`
 
-
 I read in an excel file with data from my dad's "Buddy Bass Tournament". 
 
 ## 2. Manipulate and Clean Your Data
