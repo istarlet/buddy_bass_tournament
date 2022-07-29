@@ -6,6 +6,7 @@ The Buddy Bass Tournament on Williamstown Lake was started in 1985 by twin broth
 In this notebook, I'll take a look at the dataset from the Buddy Bass Tournament 2020 Season. I will use the following dataset: dataset/Buddy_Bass_Tournament_2020.xlsx, that I received from my dad, Sam Perry.
 
 ## How to Run this Project
+`via Anaconda`
 <ol>
 <li>Install Anaconda if you don't have it installed (https://docs.anaconda.com/anaconda/install/index.html)</li>
 <li>Clone this repository from Github https://github.com/istarlet/buddy_bass_tournament/</li>
