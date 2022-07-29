@@ -1,4 +1,4 @@
-# Buddy Bass Tournament 2020
+<h1 align="center">strong>Buddy Bass Tournament 2020</strong></h1>
 <p align="center"><img src="https://github.com/istarlet/buddy_bass_tournament/blob/main/images/PB040066.JPG" /></p>
 
 ## Introduction
