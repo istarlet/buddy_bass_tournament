@@ -31,7 +31,8 @@ I read in an excel file with data from my dad's "Buddy Bass Tournament".
 
 1. **skiprows** - I used skiprows when reading the datasets in to skip over the title so the dataframe will start at the column headings. 
 2. **pd.Series(pd.date_range())** - I created a series from date_range that starts on 06/10/2022 and then every Wednesday for the next 15 periods.
-3. **.drop()** - I used drop to remove the "Big Fish/YEar (LBS)" column from the dataframe.
+3. **.drop()** - I used drop to remove the "Big Fish/Year (LBS)" column from the dataframe.
+4. **.fillna** - I used .fillna to replace all instances of NaN in the dataframe with 0.
 
 ## 3. Analyze Your Data
 `Use at least 5 different built-in Python functions to find out something about your data.`
